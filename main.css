@@ -13,8 +13,8 @@
 }
 
 .parent {
-    padding: 10px;
-    margin: 30px;
+    padding: 5px;
+    margin: 30px 0 30px 0;
     background-color: rgb(188, 217, 216);
     border: 2px solid rgb(164, 213, 220);
     border-radius: 10px;
@@ -22,7 +22,7 @@
 }
 
 .item {
-    padding: 20px;
+    padding: 10px;
     margin: 20px;
     background-color: rgb(230, 195, 195);
     border:2px solid rgb(203, 141, 141);

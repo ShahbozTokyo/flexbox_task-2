@@ -18,28 +18,26 @@ body {
 }
 
 .item { 
-
-    padding: 20px;
-    margin: 5px 0;
+    padding: 15px;
+    margin: 10px 0;
     background-color: rgb(230, 195, 195);
     border:2px solid rgb(203, 141, 141);
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
 .container-1 {
-    align-items: flex-start;
+    justify-content: flex-start;
 }
 
 .container-2 {
-    
-   align-items: flex-end;
+    justify-content:flex-end ;
 }
 
 .container-3 {
-    align-items: center;
+    justify-content: center;
 }
 
 .container-4 {
-   
-   align-items: space-around;
+    justify-content: space-around;
 }
